@@ -29,7 +29,7 @@ appear in latest ffmpeg version.
 The recommended way to install PHP-FFMpeg is through [Composer](https://getcomposer.org).
 
 ```bash
-$ composer require unifysofttech/php-ffmpeg
+$ composer require unifysofttech/php-ffmpeg-23
 ```
 
 ## Basic Usage
